@@ -1,0 +1,8 @@
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after\InventoryCC.AWS.S3.Native.WinUI\bin\Debug\InventoryCC.AWS.S3.Native.WinUI.exe.config
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after\InventoryCC.AWS.S3.Native.WinUI\bin\Debug\InventoryCC.AWS.S3.Native.WinUI.exe
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after\InventoryCC.AWS.S3.Native.WinUI\bin\Debug\InventoryCC.AWS.S3.Native.WinUI.pdb
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after\InventoryCC.AWS.S3.Native.WinUI\obj\x86\Debug\InventoryCC.AWS.S3.Native.WinUI.exe
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after\InventoryCC.AWS.S3.Native.WinUI\obj\x86\Debug\InventoryCC.AWS.S3.Native.WinUI.pdb
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after-all\InventoryCC.AWS.S3.Native.WinUI\bin\Debug\InventoryCC.AWS.S3.Native.WinUI.exe.config
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after-all\InventoryCC.AWS.S3.Native.WinUI\obj\x86\Debug\InventoryCC.AWS.S3.Native.WinUI.exe
+D:\Me\Cursos\AWS Developer Fundamentals\materials\aws-m4-storage-exercise-files\after-all\InventoryCC.AWS.S3.Native.WinUI\obj\x86\Debug\InventoryCC.AWS.S3.Native.WinUI.pdb
